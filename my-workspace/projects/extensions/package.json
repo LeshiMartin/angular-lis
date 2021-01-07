@@ -1,0 +1,15 @@
+{
+  "name": "extensions",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^11.0.6",
+    "@angular/core": "^11.0.6"
+  },
+  "author": {
+    "name": "Martin Leshi",
+    "email": "martinleshi@hotmail.com"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}
