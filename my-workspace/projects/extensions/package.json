@@ -9,6 +9,10 @@
     "name": "Martin Leshi",
     "email": "martinleshi@hotmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeshiMartin/angular-lis/tree/main/my-workspace/projects/extensions"
+  },
   "dependencies": {
     "tslib": "^2.0.0"
   }
